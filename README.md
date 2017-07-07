@@ -45,3 +45,4 @@ On the fourth day I got it so it went on to the next page when the quiz started 
 On the last day I sorted that problem out and made the submit button and at the last minutes the scoreboard which completed the quiz as a functional quiz.
 
 If I had more time I would had designed the quiz better and had the quiz at different difficulties, and I would had added it so that you could add multiplications and division question,  
+
